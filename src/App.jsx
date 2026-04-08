@@ -4,10 +4,10 @@ import { useState, useRef, useEffect } from 'react'
 // ✏️  CONFIGURATION
 // ============================================================
 const CONFIG = {
-  CAMPAY_USERNAME: 'YOUR_CAMPAY_USERNAME',        // 👈 REPLACE
-  CAMPAY_PASSWORD: 'YOUR_CAMPAY_PASSWORD',        // 👈 REPLACE
+  CAMPAY_USERNAME: 'NGWAEPHRAIM4@GMAIL.COM',        // 👈 REPLACE
+  CAMPAY_PASSWORD: 'Eski5096@',        // 👈 REPLACE
   CAMPAY_BASE_URL: 'https://demo.campay.net/api', // 👈 remove "demo." when live
-  WHATSAPP_SUPPORT: '237XXXXXXXXX',               // 👈 your WhatsApp number
+  WHATSAPP_SUPPORT: '237682613235',               // 👈 your WhatsApp number
   ADMIN_PASSWORD: 'educam-admin-2024',            // 👈 CHANGE THIS
 }
 
